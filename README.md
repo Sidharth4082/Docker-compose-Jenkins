@@ -4,3 +4,10 @@ This Project aims to build a application using redis and a pre-built image from 
 
 To get the Jenkinsfile and Docker-compose file, checkout to the master branch. :)
 
+Redis: In-memory data structure store used as as database, cache, and message broker.
+kodeKloud Image
+
+License
+
+This project is licensed under the MIT License
+
